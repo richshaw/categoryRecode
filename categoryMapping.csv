@@ -1,0 +1,134 @@
+Norms categories,Suggested mapping to MOJO categories 22nd May 14,New MOJO category needed
+Beverages,Beverages,0
+Cars,Durable Goods: Automobiles,0
+Charity,Sector: Non-Profit: Charities,0
+Cross Category,Other,0
+Finance,Financial Services,0
+Food,Food,0
+Games/toys,Entertainment: Toys,0
+Games/Toys,Entertainment: Toys,0
+Holidays/Travel,Travel,0
+Home appliances,Durable Goods: Appliances,0
+Household,Consumer Packaged Goods: Household Cleaning,0
+Magazines ,Entertainment: Magazines,0
+Other,Other,0
+Pet,Pet,1
+Phamacutical,Health and Wellness: Rx Medication,0
+Retail,Retail,0
+Sport/Fitness,Entertainment: Sports,0
+Technology,Technology,0
+Tobacco,Tobacco,0
+AD: DIY,Retail: Hardware Stores,0
+AF: Fragrances ,Consumer Packaged Goods: Personal Care Products: Perfume,0
+AL: Lightiing ,Durable Goods: Hardware,0
+AO:  Home other,Commodities: Utilities,0
+BA: Alcoholic drinks ,Beverages: Alcoholic,0
+BH: Hot Beverages,Beverages: Non-Alcoholic,0
+BS: Soft drinks,"Beverages: Non-Alcoholic: Carbonated Soft Drinks (e.g. fizzy, cola, soda, pop)",0
+CA: Cars Accessories,Durable Goods: Automobiles,0
+CC: Cars ,Durable Goods: Automobiles,0
+CF: Car Fuel,Commodities: Oil & Gas,0
+CL: Cars Lubricants,Commodities: Oil & Gas,0
+Dairy,Food: Dairy,0
+FB: Breakfast Cereals,Food: Breakfast Cereals,0
+FC: Cakes/Biscuits/Cereals bars,Food: Sweet snacks,0
+FD: Dairy,Food: Dairy,0
+FD: Dairy (savoury),Food: Dairy,0
+FG: General Food/Ambient,Food: Canned Food,0
+FL: Healthy/Diet,Health and Wellness,0
+FO: Other,Food,0
+FP: Puddings/Desserts,Food: Desserts,0
+FR: Ready Meals,Food: Prepared (Ready) meals,0
+FS: Sweets/Confec,Food: Candy,0
+FT: Salty Snacks,Food: Savo(u)ry snacks,0
+FU: Sauces,Food: Condiments,0
+FV: Vegetables,Food: Vegetables,0
+FY: Yellow Fats,Food: Yellow Fats,0
+GC: Computer/console,Entertainment: Video Games,0
+GG: Gaming,Entertainment: Video Games,0
+GT: Toys,Entertainment: Toys,0
+HC: Cleaners,Consumer Packaged Goods: Household Cleaning,0
+HD: Dishwash,Consumer Packaged Goods: Household Cleaning: Dishwashing,0
+HF: Fabric Detergent,Consumer Packaged Goods: Household Cleaning: Laundry Care,0
+HS: Fabric Softeners,Consumer Packaged Goods: Household Cleaning: Laundry Care,0
+LF: Flights ,Travel: Airlines,0
+MM: Magazine Monthy,Entertainment: Magazines,0
+MW: Magazine Weekly,Entertainment: Magazines,0
+NI: Tech ISP,Telecoms: Internet Service Providers,0
+NP: Tech Phones,Technology: Cellphones,0
+NW:  Tech Website,Technology,0
+OM: Other magazine,Entertainment: Magazines,0
+PC: Cat Food,Pet: Cat,1
+PD: Dog Food,Pet: Dog,1
+RL:  Retail Loyalty Card,Retail: Loyalty,1
+RO: Retail Other outlet,Retail,0
+RS: Retail Supermarket,Retail: Grocery Stores/Supermarkets,0
+SC: Sport Clothing,Apparel: Atheltic Apparel,0
+SE: Sport Equipment,Retail,0
+SS: Sport Shoes,Apparel: Footwear,0
+TA: Deo/AP/Bodyspray,Consumer Packaged Goods: Personal Care Products: Deodorant,0
+TD: Dental ,Health and Wellness: Oral Care,0
+Tea ,Beverages: Non-Alcoholic: Tea,0
+TH: Hair,Consumer Packaged Goods: Personal Care Products: Hair care,0
+TM: Moisturisers/Skincare,Consumer Packaged Goods: Personal Care Products: Skin Care,0
+TO:  Other toiletries,Consumer Packaged Goods: Personal Care Products,0
+Toilet paper,Consumer Packaged Goods: Personal Care Products,0
+TP: Aftershave/Perfume,Consumer Packaged Goods: Personal Care Products: Perfume,0
+TS: Soap/Shower Gels,Consumer Packaged Goods: Personal Care Products: Soap,0
+ZC: Credit/debit cards,Financial Services: Credit Cards,0
+ZO: Other Finance,Financial Services,0
+ZR: Retail Banking,Financial Services: Banks,0
+ZS: Savings/Investments,Financial Services: Investment,0
+Beer/RTE,Beverages: Alcoholic: Beer,0
+Bleach/toilet cleaners,Consumer Packaged Goods: Household Cleaning: Bleach,0
+Bread,Food,0
+Carbonated,"Beverages: Non-Alcoholic: Carbonated Soft Drinks (e.g. fizzy, cola, soda, pop)",0
+Cat food - main meal,Pet: Cat: Food,1
+Cat food-treat/reward/biscuit,Pet: Cat: Treat,1
+Cheese ,Food: Dairy,0
+Children's,Food,0
+Choc confectonary,Food: Candy,0
+Coffee,Beverages: Non-Alcoholic: Coffee,0
+Crisps/Crackers,Food: Savo(u)ry snacks,0
+Deo Men,Consumer Packaged Goods: Personal Care Products: Deodorant,0
+Deo Women,Consumer Packaged Goods: Personal Care Products: Deodorant,0
+Dog food - main meal,Pet: Dog: Food,0
+Dog food-treat/reward/biscuit,Pet: Dog: Treat,0
+Fabric Additives eg. pre-treaters,Consumer Packaged Goods: Household Cleaning: Laundry Care,0
+Fabric Conditioners,Consumer Packaged Goods: Household Cleaning: Laundry Care,0
+Frozen Desserts.Ice Cream,Food: Frozen Foods,0
+Frozen ready meals,Food: Frozen Foods,0
+Frozen vegetables,Food: Frozen Foods,0
+Hand dishwash,Consumer Packaged Goods: Household Cleaning: Dishwashing,0
+Healthy Cereals,Food: Breakfast Cereals,0
+Healthy ready meals,Food: Prepared (Ready) meals,0
+Healthy Sauces,Food: Condiments,0
+Healthy/Diet,Health and Wellness,0
+Healthy/Diet/Low Fat Snacks,Food,0
+Healthy/Diet/Low Fat Spreads,Food: Yellow Fats,0
+Healthy/Low fat/Diet desserts,Food,0
+Heavy Duty detergents,Consumer Packaged Goods: Household Cleaning: Laundry Care,0
+Italian Sauces,Food: Condiments,0
+Machine dishwash,Consumer Packaged Goods: Household Cleaning: Dishwashing,0
+Meat/Fish,Food,0
+Milk/Shakes,Beverages: Non-Alcoholic,0
+Moisturiser - men,Consumer Packaged Goods: Personal Care Products: Skin Care,0
+Moisturiser - women,Consumer Packaged Goods: Personal Care Products: Skin Care,0
+Non frozen desserts,Food: Desserts,0
+Non frozen ready meals,Food: Prepared (Ready) meals,0
+Non frozen vegeatbles,Food: Vegetables,0
+Other cleaners,Consumer Packaged Goods: Household Cleaning,0
+Other sauces,Food: Condiments,0
+Paint,Retail: Hardware Stores,0
+Pasta/Rice/Noodles,Food,0
+Perfume - men,Consumer Packaged Goods: Personal Care Products: Perfume,0
+Petrol,Commodities: Oil & Gas,0
+Shampoo/Conditioner,Consumer Packaged Goods: Personal Care Products: Hair care,0
+Soups/Stocks,Food: Canned Food,0
+Still/Juices,Beverages: Non-Alcoholic: Juice drinks/ Squash/ Cordial,0
+Sugared confectionary,Food: Candy,0
+Tea ,Beverages: Non-Alcoholic: Tea,0
+Toothpaste,Health and Wellness: Oral Care: Toothpaste/ Toothbrushes,0
+Wine and Spirits,Beverages: Alcoholic: Wine,0
+Pharmaceutical,Health and Wellness: Rx Medication,0
+Toiletries,Consumer Packaged Goods: Personal Care Products,0
